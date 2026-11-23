@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1331" height="2268" alt="image" src="https://github.com/user-attachments/assets/7b025c45-eaad-43a1-a0e5-4239c5169183" />
+
 
 <!--
 **samirkr30196-hue/samirkr30196-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
